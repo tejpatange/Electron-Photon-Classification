@@ -62,9 +62,11 @@ Final model performance:
 | Test     | 73.69%    | 73.68% | 73.67%   | 73.68%   |
 ### Confusion Matrix
 Training Set:
+
 ![Confusion Matrix (Train)](Results/Training_confusion_matrix.png)
 
 Test Set:
+
 ![Confusion Matrix (Test)](Results/Test_confusion_matrix.png)
 
 ## Model Saving
